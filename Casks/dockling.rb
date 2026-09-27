@@ -1,6 +1,6 @@
 cask "dockling" do
-  version "2026.09.27.1939"
-  sha256 "c27b15a189900193a0de39caa83149747743ab5f384df53fac7c06bfe0d37b8b"
+  version "2026.09.27.1957"
+  sha256 "ff53d32216f95a02d85cb8d50689f9aa247bc8cd04ec1c2371cb5bf8b16de0a3"
 
   url "https://github.com/abbykatz23/dockling/releases/download/v#{version}/Dockling.dmg"
   name "Dockling"
